@@ -5,8 +5,7 @@ body{
 }
 
 img{
-   
-    float: left;
+    max-width: 10%;  
     margin-bottom: -10px;
     width: 5px, 5px;
     height:  5px, 5px;
