@@ -9,6 +9,8 @@ img{
     background-image: url("C:\Users\Stephanie\vs-wdd\wdd230\image\210426fb-e4f5-4094-8b33-7062f911a87b.jpeg");
     float: left;
     margin-bottom: -10px;
+    width: 5px, 5px;
+    height:  5px, 5px;
 }
 
 h1{
